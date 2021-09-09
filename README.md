@@ -1,2 +1,2 @@
 # Mahasvan.me
-GH Pages for httpp://mahasvan.me
+GH Pages for http://mahasvan.me
