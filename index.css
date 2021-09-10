@@ -40,6 +40,7 @@ font-family: monospace;
 }
 
 .top-right {
+    position: -webkit-sticky; /* for safari */
     position: sticky;
     top: 10px;
     color: white;
