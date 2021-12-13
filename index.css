@@ -40,8 +40,8 @@ font-family: monospace;
 }
 
 .top-right {
-    position: -webkit-sticky; /* for safari */
     position: sticky;
+    position: -webkit-sticky; /* for safari */
     top: 10px;
     color: white;
     font-family: "Urbanist", sans-serif;
